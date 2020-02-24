@@ -1,9 +1,9 @@
 #
 # Site settings
 #
-remote_theme: LeakyAbstractions/pretty-docs
-url: https://leakyabstractions.github.io
-baseurl: /pretty-docs
+remote_theme: leakyabstractions/pretty-docs
+url: https://cdrch.github.io/pretty-docs-se-modding-test/
+baseurl: /pretty-docs-se-modding-test
 title: &site_title Pretty Docs
 description: &site_description Free Bootstrap theme for your project documentation
 branding:
@@ -64,10 +64,6 @@ share:
     repo: LeakyAbstractions/pretty-docs
     position: right
     color: red
-
-
-# Google Analytics
-google_analytics: UA-61670496-5
 
 
 #
