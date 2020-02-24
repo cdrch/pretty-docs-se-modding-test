@@ -14,3 +14,5 @@ remote_theme: leakyabstractions/pretty-docs
 Here is an example of a GitHub Pages site using this theme:
 
 - [GitHub Pages Demo source code](https://github.com/LeakyAbstractions/pretty-docs/tree/gh-pages)
+
+This repository is a test for the [Space Engineers Fan Docs](https://github.com/cdrch/space-engineers-fan-docs).
